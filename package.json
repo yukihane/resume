@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint .",
+    "pdf": "md-to-pdf resume.ja.md --config-file md-to-pdf.json",
+    "pdf-watch": "md-to-pdf resume.ja.md --config-file md-to-pdf.json --watch",
+    "pdf-en": "md-to-pdf resume.en.md --config-file md-to-pdf.json",
+    "pdf-en-watch": "md-to-pdf resume.en.md --config-file md-to-pdf.json --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yukihane/resume.git"
+  },
+  "homepage": "https://github.com/yukihane/resume#readme",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4",
+    "textlint": "^14.6.0",
+    "textlint-rule-preset-japanese": "^10.0.4"
+  }
+}

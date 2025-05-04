@@ -1,0 +1,32 @@
+name: Main
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: "package.json"
+      - run: npm ci
+      - run: npm run pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resume.ja
+          path: resume.ja.pdf
+      - run: npm run pdf-en
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resume.en
+          path: resume.en.pdf
+  lint:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm ci
+      - run: npm run lint
