@@ -1,11 +1,11 @@
 # Resume
 
-As of August 13, 2024
+As of April 30, 2025
 
 ## Basic Information
 
-- Name: Kazuyuki Deha
-- Education: Master's degree in Information Engineering (March 2003)
+- Name: DEWA Kazuyuki (出羽 和之)
+- Education: Master's degree in Information Engineering, Osaka Prefecture University (March 2003)
 
 ## Professional Summary
 
@@ -15,6 +15,7 @@ Worked in the financial systems division of a system integration company from Ap
 
 - Server-side development using Java EE, Spring Boot/Framework
 - Backend development with Kotlin
+- JPA implementation for database access
 - Database design
 - Application performance optimization and tuning
 - Requirements analysis and specification development
@@ -29,9 +30,17 @@ Worked in the financial systems division of a system integration company from Ap
 
 ## Work Experience
 
-### Freelance Software Developer (August 2010 - Present)
+### Employee Management System Development (October 2024 - April 2025)
 
-#### News Distribution Web Service Development (January 2022 - September 2024)
+Development of employee management and attendance tracking service using Spring Boot/Kotlin, Thymeleaf, and jQuery.
+
+**[Responsibilities]**
+
+- Implementation of UI screens and database CRUD operations with Spring Boot
+
+**[Technologies]**: Spring Boot, Thymeleaf, jQuery, Bootstrap
+
+### News Distribution Web Service Development (January 2022 - September 2024)
 
 Web server and API server development using Spring Framework/Kotlin. New infrastructure development using Next.js/Apollo.
 
@@ -42,7 +51,7 @@ Web server and API server development using Spring Framework/Kotlin. New infrast
 
 **[Technologies]**: Spring Framework, Next.js/React, GraphQL, Kotlin, TypeScript, AWS
 
-#### Mobile Carrier Smartphone Mini-App/Web Service Development (July 2020 - September 2021)
+### Mobile Carrier Smartphone Mini-App/Web Service Development (July 2020 - September 2021)
 
 Development of smartphone mini-applications using Spring Boot and React, running on AWS ECS.
 
@@ -55,7 +64,7 @@ Development of smartphone mini-applications using Spring Boot and React, running
 
 **[Technologies]**: Spring Boot 2, React/Redux, TypeScript, AWS (ECS, Code Deploy, etc.)
 
-#### ISP Company Web Service Server-side Development (February 2018 - March 2020)
+### ISP Company Web Service Server-side Development (February 2018 - March 2020)
 
 Establishment of Java EE application development infrastructure, development of in-house CI/CD infrastructure, and application migration with Spring Boot.
 
@@ -68,7 +77,7 @@ Establishment of Java EE application development infrastructure, development of 
 
 **[Technologies]**: Java EE, Spring Boot 2, Docker, Jenkins, Kubernetes/OpenShift, OAuth 2.0
 
-#### Trading Company and Banking Systems (August 2010 - June 2017)
+### Trading Company and Banking Systems (August 2010 - June 2017)
 
 Development and maintenance of trading company transaction management systems and bank risk calculation systems.
 
