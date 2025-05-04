@@ -1,15 +1,9 @@
 name: Main
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
+on: [push]
 
 jobs:
   build:
-    # mainブランチでのみ実行
-    if: github.ref == 'refs/heads/main'
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,7 +22,6 @@ jobs:
           name: resume.en
           path: resume.en.pdf
   lint:
-    # 全てのブランチとPRで実行
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
