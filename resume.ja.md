@@ -1,6 +1,7 @@
 # 職務経歴書
 
 2025年04月30日現在
+([最新版はこちらから取得できます。](https://github.com/yukihane/resume/blob/main/README.md))
 
 ## 基本情報
 

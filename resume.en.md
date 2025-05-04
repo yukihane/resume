@@ -1,6 +1,7 @@
 # Resume
 
 As of April 30, 2025
+([The latest version is available here.](https://github.com/yukihane/resume/blob/main/README.md))
 
 ## Basic Information
 
