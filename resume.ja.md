@@ -29,9 +29,7 @@
 
 ## 職務経歴
 
-### フリーランス（2010年8月～現在）
-
-#### ニュース配信Webサービス開発（2022年1月～2024年9月）
+### ニュース配信Webサービス開発（2022年1月～2024年9月）
 
 Spring Framework/Kotlinを用いたWebサーバー・APIサーバー開発。Next.js/Apollo を用いた新規基盤開発。
 
@@ -42,7 +40,7 @@ Spring Framework/Kotlinを用いたWebサーバー・APIサーバー開発。Nex
 
 **【主な技術】**: Spring Framework, Next.js/React, GraphQL, Kotlin, TypeScript, AWS
 
-#### モバイル通信会社 スマートフォン用ミニアプリ/Webサービス開発（2020年7月～2021年9月）
+### モバイル通信会社 スマートフォン用ミニアプリ/Webサービス開発（2020年7月～2021年9月）
 
 AWS ECS上で動作する、Spring Boot, Reactを用いたスマートフォン用ミニアプリ等開発。
 
@@ -55,7 +53,7 @@ AWS ECS上で動作する、Spring Boot, Reactを用いたスマートフォン�
 
 **【主な技術】**: Spring Boot 2, React/Redux, TypeScript, AWS (ECS, Code Deployなど)
 
-#### ISP事業会社Webサービスサーバサイド開発（2018年2月～2020年3月）
+### ISP事業会社Webサービスサーバサイド開発（2018年2月～2020年3月）
 
 Java EE アプリケーション開発基盤の整備、イントラでのCI/CD基盤開発、Spring Bootでのアプリケーションマイグレーション。
 
@@ -68,7 +66,7 @@ Java EE アプリケーション開発基盤の整備、イントラでのCI/CD�
 
 **【主な技術】**: Java EE, Spring Boot 2, Docker, Jenkins, Kubernetes/OpenShift, OAuth2.0
 
-#### 商社・金融向けシステム開発（2010年8月～2017年6月）
+### 商社・金融向けシステム開発（2010年8月～2017年6月）
 
 商社向け取引管理システムおよび銀行リスク計算システムの開発・保守。
 
