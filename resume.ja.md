@@ -88,7 +88,7 @@ Java EE アプリケーション開発基盤の整備、イントラでのCI/CD�
 - サーバサイド(JavaEE7)およびクライアントサイド(GWT)開発
 - データモデリング、パフォーマンスチューニング
 
-**【主な技術】**: JavaEE, GWT, JBoss/WildFly, PostgreSQL, Oracle DB
+**【主な技術】**: JavaEE(JBoss/WildFly), GWT, PostgreSQL, Oracle DB
 
 ### 新日鉄ソリューションズ株式会社（現・日鉄ソリューションズ）（2003年4月～2009年9月）
 
@@ -101,7 +101,7 @@ Java EE アプリケーション開発基盤の整備、イントラでのCI/CD�
 - Java(Swing)およびC言語によるGUIアプリケーション開発
 - パフォーマンス測定・改善
 
-**【主な技術】**: Java, C, Sybase, Oracle Coherence, UNIX(Solaris), Windows
+**【主な技術】**: Java6, C, VB6, C#.NET, Sybase, Oracle Coherence, UNIX(Solaris), Windows(NT4, 2000, XP)
 
 ## 資格など
 

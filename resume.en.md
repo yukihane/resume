@@ -87,7 +87,7 @@ Development and maintenance of trading company transaction management systems an
 - Server-side (JavaEE7) and client-side (GWT) development
 - Data modeling and performance tuning
 
-**[Technologies]**: JavaEE, GWT, JBoss/WildFly, PostgreSQL, Oracle DB
+**[Technologies]**: JavaEE(JBoss/WildFly), GWT, PostgreSQL, Oracle DB
 
 ### Nippon Steel Solutions (now NS Solutions) (April 2003 - September 2009)
 
@@ -100,7 +100,7 @@ Maintenance, development, and reconstruction of stock trading client/server syst
 - GUI application development using Java (Swing) and C
 - Performance measurement and optimization
 
-**[Technologies]**: Java, C, Sybase, Oracle Coherence, UNIX (Solaris), Windows
+**[Technologies]**: Java6, C, VB6, C#.NET, Sybase, Oracle Coherence, UNIX (Solaris), Windows
 
 ## Certifications
 
