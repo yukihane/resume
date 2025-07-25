@@ -33,35 +33,39 @@
 
 ### 社員管理機能追加開発（2024年10月～2025年4月）
 
-Spring Boot/Kotlin, Thmeleaf, jQueryを用いた社員管理・社員勤怠管理サービス開発。
+**所属チーム構成と役割**
 
-**【担当内容】**
+- 船舶業務管理システムで提供するサービスのうち、船員勤怠管理部分のリプレースを担当
+- リーダーを含め4名程度のチームメンバーとして、Spring Boot, Thymeleafを用いた画面を新規実装
+  - 画面デザインは別のデザインチームから提供されるFigmaを基にしてCSS, HTMLを実装
+- DBクエリーの設計と実装
+  - DBスキーマ定義は別チームで検討されたもの,既存システムのものを利用
 
-- Spring Bootでの画面、DB CRUD機能実装
-
-**【主な技術】**: Spring Boot, Thymeleaf, jQuery, Bootstrap
+**【主な技術】**: Spring Boot, Thymeleaf, jQuery, Bootstrap, GCP
 
 ### ニュース配信Webサービス開発（2022年1月～2024年9月）
 
-Spring Framework/Kotlinを用いたWebサーバー・APIサーバー開発。Next.js/Apollo を用いた新規基盤開発。
+**所属チーム構成と役割**
 
-**【担当内容】**
-
-- 新規業務サービスの開発(Spring/Kotlin)
-- Webフロント更改に伴う既存画面リプレース(Next.js/TypeScript, Apollo)
+- 8名程度のチームメンバーとして、著名人コラム配信機能の新規開発、機能拡張を担当
+- 別チームで検討された要件を基に、既存フレームワークに組み込む方法、機能実現方法を設計、実装、テスト、CI/CDに組み込みプロダクションリリース
+- 他社の提供する決済サービスと連携したサブスクリプション機能の実装
+- 基盤技術の刷新に伴う作業
+  - Thymeleaf, CoffeeScriptからNext.js, Apolloへの移行、GraphQLの設計・実装
+- 後期は広告配信チームとして、A/Bテストの効果計測機能の改善を担当
 
 **【主な技術】**: Spring Framework, Next.js/React, GraphQL, Kotlin, TypeScript, AWS
 
 ### モバイル通信会社 スマートフォン用ミニアプリ/Webサービス開発（2020年7月～2021年9月）
 
-AWS ECS上で動作する、Spring Boot, Reactを用いたスマートフォン用ミニアプリ等開発。
+**所属チーム構成と役割**
 
-**【担当内容】**
-
-- 開発環境標準化・ドキュメンテーション
-- Spring Boot BFF開発（OpenID Connect認証含む）
-- Reactを用いたスマートフォン用ミニアプリフロントエンド開発
-- AWS実行環境設計のレビュー/評価
+- 10名程度のスクラムチーム(顧客2名含む)
+- Spring Bootを用いた下記2種類の新規アプリケーション開発
+  - 顧客スマートフォンアプリ内で動作するミニアプリ(front: React)
+  - ECサイトに埋め込むポイント(楽天ポイントやdポイントのようなもの)情報表示ウィジェット
+    - ユーザー情報取得のための認証(OIDC)や3rd-party cookieの調査・検証
+- インフラ(AWS)の実現可能性の検証・評価作業のサポート
 
 **【主な技術】**: Spring Boot 2, React/Redux, TypeScript, AWS (ECS, Code Deployなど)
 
