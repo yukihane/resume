@@ -67,6 +67,11 @@ td:first-child {
   width: 8.5em;
 }
 
+h2#経験領域 + table th:nth-child(3),
+h2#経験領域 + table td:nth-child(3) {
+  width: 6em;
+}
+
 tr {
   break-inside: avoid-page;
 }
