@@ -90,8 +90,8 @@ Kotlin/Spring Bootによるバックエンド実装とDB設計を得意とする
 | 役割・規模 | 開発メンバー。Spring Boot実装標準化担当。チーム10名、うち開発8名。 |
 | 担当工程 | 要件定義、基本設計、詳細設計、実装・単体テスト、結合テスト、総合テスト。 |
 | 担当内容 | 開発環境の標準化とドキュメンテーション、DB設計、Spring SecurityによるOpenID Connect認証を含むBFFの開発、Reactによるミニアプリのフロントエンド開発、AWS実行環境設計のレビュー・評価。Apache JMeterによる性能・負荷試験のシナリオを作成し、試験の自動実行と結果取得を行うスクリプトも実装。 |
-| 貢献・工夫 | チーム内で唯一のSpring Boot経験者として、前案件の知見を基に実装方式を標準化し、利用するライブラリーを選定。既存認証基盤へSpring Bootから接続する初めてのサービスでは、基盤仕様とOpenID Connect標準との差異、Spring Securityのカスタマイズ要否を調査し、認証フローを新規設計・実装した。マルチインスタンス間で共有するHTTPセッションは、Spring SessionによりRedisへ格納。性能・負荷試験を自動化して結果を収集し、目標レイテンシーを満たすAWSインスタンス構成の決定にも貢献した。 |
-| 技術環境 | Java、TypeScript、SQL、HTML、Spring Boot、Spring Security、Spring Session、Hibernate、React、Redux、Apache JMeter、Redis、MySQL（Amazon RDS）、Amazon ECS、Amazon EC2、CodeDeploy、Ubuntu。 |
+| 貢献・工夫 | チーム内で唯一のSpring Boot経験者として、前案件の知見を基に実装方式を標準化し、利用するライブラリーを選定。既存認証基盤へSpring Bootから接続する初めてのサービスでは、基盤仕様とOpenID Connect標準との差異、Spring Securityのカスタマイズ要否を調査し、認証フローを新規設計・実装した。マルチインスタンス間で共有するHTTPセッションは、Spring SessionによりRedisへ格納。ゼロから実装したアプリケーションサーバーについて、既存Jenkinsサーバー上にビルド・デプロイジョブを構築。性能・負荷試験を自動化して結果を収集し、目標レイテンシーを満たすAWSインスタンス構成の決定にも貢献した。 |
+| 技術環境 | Java、TypeScript、SQL、HTML、Spring Boot、Spring Security、Spring Session、Hibernate、React、Redux、Apache JMeter、Jenkins、Redis、MySQL（Amazon RDS）、Amazon ECS、Amazon EC2、CodeDeploy、Ubuntu。 |
 
 ### 05. ISP事業会社Webサービスのサーバーサイド開発（2018年2月～2020年3月）
 
