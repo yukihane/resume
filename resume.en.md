@@ -97,7 +97,7 @@ The project numbers in “Key projects” correspond to the numbered entries in 
 
 | Item | Details |
 | --- | --- |
-| Project | Improvement of a Java EE application development platform, construction of an internal CI/CD environment, application migration to Spring Boot, and validation of an on-premises system's cloud migration. |
+| Project | Improvement of a Java EE application development platform, construction of an internal CI/CD environment, application migration to Spring Boot, and validation of an on-premises system's migration to a container platform. |
 | Role and team | Developer and Spring Boot technical research and standards lead on a five-member team. |
 | Phases | Requirements, system design, detailed design, implementation and unit testing, and integration testing. |
 | Responsibilities | Documented the Java EE development environment and standards; built Jenkins runtime and build/deployment jobs; designed databases; developed REST APIs with Spring Boot/MyBatis; and containerized, deployed, and verified a batch-processing service on OpenShift. |
