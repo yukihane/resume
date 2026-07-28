@@ -71,19 +71,24 @@ td:first-child {
   width: 8.5em;
 }
 
-h2#経験領域 + table th:nth-child(3),
-h2#経験領域 + table td:nth-child(3) {
+h2#経験領域 + p + table th:nth-child(3),
+h2#経験領域 + p + table td:nth-child(3) {
+  width: 5em;
+}
+
+h2#経験領域 + p + table th:first-child,
+h2#経験領域 + p + table td:first-child {
+  width: 9em;
+}
+
+h2#core-capabilities + p + table th:first-child,
+h2#core-capabilities + p + table td:first-child {
+  width: 12.5em;
+}
+
+h2#core-capabilities + p + table th:nth-child(3),
+h2#core-capabilities + p + table td:nth-child(3) {
   width: 6em;
-}
-
-h2#core-capabilities + table th:first-child,
-h2#core-capabilities + table td:first-child {
-  width: 12em;
-}
-
-h2#core-capabilities + table th:nth-child(3),
-h2#core-capabilities + table td:nth-child(3) {
-  width: 7em;
 }
 
 tr {
