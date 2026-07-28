@@ -20,6 +20,8 @@ Since becoming an independent contractor in August 2010, I have focused on web a
 
 ## Core Capabilities
 
+The project numbers in “Key projects” correspond to the numbered entries in “Professional Experience” below.
+
 | Area | Experience and capabilities | Key projects |
 | --- | --- | --- |
 | Requirements analysis and application design | In project 07, interviewed client system teams and securities traders, negotiated requirements, and translated them into feasible specifications based on existing system constraints. As an independent contractor, have designed APIs, databases, class structures, processing approaches, and test strategies from requirements prepared within the team, then carried the work through review, implementation, and release. | 01, 03–07 |
