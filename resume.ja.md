@@ -101,7 +101,7 @@ Kotlin/Spring Bootによるバックエンド実装とDB設計を得意とする
 | 役割・規模 | 開発メンバー。Spring Boot技術調査・標準化担当。チーム5名。 |
 | 担当工程 | 要件定義、基本設計、詳細設計、実装・単体テスト、結合テスト。 |
 | 担当内容 | Java EEの開発環境・開発標準のドキュメント整備、Jenkins実行環境とビルド・デプロイジョブの構築、DB設計、Spring Boot/MyBatisによるREST API開発。OpenShift上でバッチ処理サービスをコンテナ化し、デプロイと動作確認を実施。 |
-| 貢献・工夫 | Spring BootとReactの経験者がいないチームで技術調査を担当。バックエンドでは公式ドキュメントを基に、設計・実装方式とライブラリーを選定して標準化し、Java EE/WildFlyからSpring Bootへの移行を進めた。オンプレミスのバッチ処理サービスをパイロット対象としてOpenShiftへの移行可能性を検証し、技術的に移行可能との判断につなげた。Jenkins環境を整備して、手作業だったビルドとデプロイを自動化。SQLの実行計画からインデックス構成を見直して応答性能を改善し、React/TypeScriptによるフロントエンド開発も担当した。 |
+| 貢献・工夫 | Spring BootとReactの経験者がいないチームで技術調査を担当。バックエンドでは公式ドキュメントを基に、設計・実装方式とライブラリーを選定して標準化し、Java EE/WildFlyからSpring Bootへの移行を進めた。オンプレミスのバッチ処理サービスをパイロット対象としてOpenShiftへの移行可能性を検証し、技術的に移行可能との判断につなげた。Jenkins環境を整備し、ビルド・デプロイを自動化。SQLの実行計画からインデックス構成を見直して応答性能を改善し、React/TypeScriptによるフロントエンド開発も担当した。 |
 | 技術環境 | Java、TypeScript、HTML、Java EE、WildFly、Spring Boot、Hibernate、MyBatis、React、Docker、Jenkins、Ansible、Kubernetes、OpenShift、OAuth 2.0、Sybase ASE、RHEL。 |
 
 ### 06. 銀行社内向けリスク計算システム再構築（2011年12月～2012年3月）
