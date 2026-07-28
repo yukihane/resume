@@ -24,13 +24,13 @@ The project numbers in “Key projects” correspond to the numbered entries in 
 
 | Area | Experience and capabilities | Key projects |
 | --- | --- | --- |
-| Requirements analysis and application design | In project 07, interviewed client system teams and securities traders, negotiated requirements, and translated them into feasible specifications based on existing system constraints. As an independent contractor, have designed APIs, databases, class structures, processing approaches, and test strategies from requirements prepared within the team, then carried the work through review, implementation, and release. | 01, 03–07 |
-| Backend and external service integration | Design and implementation of web features, REST APIs, and BFFs with Java/Kotlin and Spring. Also experienced with OpenID Connect using Spring Security and with investigating external payment API specifications and error conditions. | 01–06 |
-| Database design and performance optimization | Design databases from UML-based object-oriented models, balancing business requirements with the characteristics and constraints of persistence libraries including JPA/Hibernate, Exposed, and MyBatis. Diagnose slow screens through measurement, logs, and execution plans, then improve response performance by resolving SQL and indexing issues. | 01, 03–07 |
+| Requirements analysis and application design | In project 08, interviewed client system teams and securities traders, negotiated requirements, and translated them into feasible specifications based on existing system constraints. As an independent contractor, depending on the project, have clarified requirements with client or internal stakeholders, or designed APIs, databases, class structures, processing approaches, and test strategies from requirements prepared within the team, then carried the work through review, implementation, and release. | 01, 03–05, 07, 08 |
+| Backend and external service integration | Design and implementation of web features, REST APIs, and BFFs with Java/Kotlin and Spring. Also experienced with OpenID Connect using Spring Security and with investigating external payment API specifications and error conditions. | 01–05, 07 |
+| Database design and performance optimization | Design databases from UML-based object-oriented models, balancing business requirements with the characteristics and constraints of persistence libraries and database-access technologies including JPA/Hibernate, Exposed, and MyBatis. Diagnose slow screens through measurement, logs, and execution plans, then improve response performance by resolving SQL and indexing issues. | 01, 03–08 |
 | Technology migration and legacy enhancement | Implemented migrations from Java to Kotlin, WildFly to Spring Boot, and legacy server-rendered screens to Next.js/TypeScript. In Java-to-Kotlin migration, used immutability and null safety as defaults while defining implementation rules that allow `var`, nullable types, and regular classes when required by Hibernate. | 03, 05 |
-| Cloud, development platforms, and performance validation | Built Jenkins pipelines, deployed and operated an internal GitLab instance, and evaluated migration to OpenShift. On AWS, automated load testing and helped determine an instance configuration that met latency targets. | 04–06 |
-| Frontend development | Experience with React/Next.js, TypeScript, and GWT. Can implement new features and screens within an established architecture and component system; also designed screens and navigation for a new service when no designer was assigned. | 01–06 |
-| Team leadership and knowledge sharing | Led task assignment, progress tracking, design reviews, and code reviews for an eight-member client application team. Documented environment setup, test data preparation, and system architecture in Confluence and Notion to help new members become productive independently. | 03–07 |
+| Cloud, development platforms, and performance validation | Built Jenkins pipelines, deployed and operated an internal GitLab instance, and evaluated migration to OpenShift. On AWS, automated load testing and helped determine an instance configuration that met latency targets. | 04, 05, 07 |
+| Frontend development | Experience with React/Next.js, TypeScript, and GWT. Can implement new features and screens within an established architecture and component system; also designed screens and navigation for a new service when no designer was assigned. | 01–05, 07 |
+| Team leadership and knowledge sharing | Led task assignment, progress tracking, design reviews, and code reviews for an eight-member client application team. Documented environment setup, test data preparation, and system architecture in Confluence and Notion to help new members become productive independently. | 03–05, 07, 08 |
 | AI-assisted development | Collaborate with Claude Code across requirements consistency checks, design, implementation, code review, and testing. Account for possible context gaps in AI reviews by directing follow-up investigation of relevant specifications and code, then checking for inconsistencies and policy violations. | 01 |
 
 ## Certifications
@@ -104,18 +104,29 @@ The project numbers in “Key projects” correspond to the numbered entries in 
 | Contributions | Led technical research in a team without Spring Boot or React experience. For the backend, selected and standardized design and implementation approaches and libraries based on official documentation, then advanced the migration from Java EE/WildFly to Spring Boot. Validated migration of an on-premises batch service to OpenShift as a pilot and established that it was technically feasible. Built Jenkins infrastructure to automate previously manual builds and deployments. Improved response performance by revising index definitions from SQL execution plans, and also contributed to React/TypeScript frontend development. |
 | Technologies | Java, TypeScript, HTML, Java EE, WildFly, Spring Boot, Hibernate, MyBatis, React, Docker, Jenkins, Ansible, Kubernetes, OpenShift, OAuth 2.0, Sybase ASE, RHEL. |
 
-### 06. Trading Company and Banking Systems Development (August 2010–June 2017)
+### 06. Internal Bank Risk Calculation System Rebuild (December 2011–March 2012)
 
 | Item | Details |
 | --- | --- |
-| Project | Primarily developed and maintained a transaction management system for a trading company. During an interruption, worked separately on development and maintenance of a bank risk-calculation system. |
-| Role and team | Developer. Team of seventeen, including twelve developers. |
+| Project | Rebuild of an internal bank risk-calculation system using HPC. |
+| Role and team | Developer. Approximately fifteen people in the subproject. |
+| Phases | Design, implementation, and testing. |
+| Responsibilities | Cross-subproject coordination and database performance tuning. |
+| Contributions | Coordinated integration APIs and release schedules with other subprojects. Evaluated Oracle Database partitioning, statistics collection methods and timing, and index design. |
+| Technologies | Oracle Database. |
+
+### 07. Trading and Position Management System for a Trading Company (August 2010–June 2017, intermittent)
+
+| Item | Details |
+| --- | --- |
+| Project | Development and maintenance of a system that manages trading-company transactions and calculates risk. |
+| Role and team | Developer. Overall project team of approximately ten, including approximately seven developers. |
 | Phases | Requirements, system design, detailed design, implementation and unit testing, integration testing, system testing, and maintenance. |
 | Responsibilities | Java EE backend development, GWT client development, data modeling, and performance improvement. Built a GitLab server and designed and documented a development workflow including branches, merge requests, and code reviews. |
 | Contributions | Took responsibility from installing the server OS through GitLab installation and configuration. Introduced GitLab into a development environment that used SVN and lacked clear branching practices, then defined the operating model and supported its adoption by the team. |
 | Technologies | Java, SQL, Java EE 7, JBoss AS, WildFly, Hibernate, GWT, GitLab, PostgreSQL, SQL Server. |
 
-### 07. Securities Trading System Maintenance and Development (April 2003–September 2009)
+### 08. Securities Trading System Maintenance and Development (April 2003–September 2009)
 
 | Item | Details |
 | --- | --- |
