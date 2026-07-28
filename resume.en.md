@@ -123,7 +123,7 @@ The project numbers in “Key projects” correspond to the numbered entries in 
 | Role and team | Developer. Overall project team of approximately ten, including approximately seven developers. |
 | Phases | Requirements, system design, detailed design, implementation and unit testing, integration testing, system testing, and maintenance. |
 | Responsibilities | Java EE backend development, GWT client development, data modeling, and performance improvement. Built a GitLab server and designed and documented a development workflow including branches, merge requests, and code reviews. |
-| Contributions | Took responsibility from installing the server OS through GitLab installation and configuration. Introduced GitLab into a development environment that used SVN and lacked clear branching practices, then defined the operating model and supported its adoption by the team. |
+| Contributions | Took responsibility from installing the server OS through GitLab installation and configuration. Migrated source code managed in SVN to GitLab, using git-svn for parallel operation during the transition. Defined branch, merge-request, and code-review practices and supported their adoption by the team. |
 | Technologies | Java, SQL, Java EE 7, JBoss AS, WildFly, Hibernate, GWT, GitLab, PostgreSQL, SQL Server. |
 
 ### 08. Securities Trading System Maintenance and Development (April 2003–September 2009)
