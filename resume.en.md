@@ -130,9 +130,9 @@ The project numbers in “Key projects” correspond to the numbered entries in 
 
 | Item | Details |
 | --- | --- |
-| Project | Maintenance and development of an equity trading system for a securities firm, including a rebuild associated with a Tokyo Stock Exchange system renewal. The system had stringent performance and scalability requirements. |
-| Role and team | Employee of NS Solutions Corporation. Subproject leader and developer for an eight-member client application development team within a team of thirty, including twenty-five developers; overall project team of fifty. |
+| Project | Maintenance and development of a C/C++ equity trading system for a securities firm, followed by a Java greenfield rebuild associated with a Tokyo Stock Exchange system renewal. The system had stringent performance and scalability requirements. |
+| Role and team | Employee of NS Solutions Corporation. In the C/C++ system phase, subproject leader and developer for an eight-member client application development team. In the Java rebuild, worked across the overall development effort. Team of thirty, including twenty-five developers; overall project team of fifty. |
 | Phases | Requirements, system design, detailed design, implementation and unit testing, integration testing, system testing, maintenance, and incident response. |
-| Responsibilities | Client requirements coordination; architecture, data-model, and database design; GUI application development in Java/Swing and C; and design and code reviews. Designed mechanisms for retaining and searching large volumes of client-side in-memory data to enable fast screen response. |
+| Responsibilities | Client requirements coordination; architecture, data-model, and database design; O/R mapping design and implementation using Hibernate; GUI application development in Java/Swing and C/C++; server-architecture design and implementation; and design and code reviews. Designed mechanisms for retaining and searching large volumes of client-side in-memory data to enable fast screen response. |
 | Contributions | Designed data-eviction and search mechanisms for in-memory data, as well as a mechanism for asynchronously querying the server and updating in-memory data while maintaining consistency with retrieved data. As subproject leader, managed task assignment and progress while also handling design, implementation, reviews, and incident response. |
-| Technologies | Java 6, C, VB6, C#.NET, Swing, Hibernate, SourcePro, MFC, Sybase ASE, Oracle Coherence, Solaris, Windows. |
+| Technologies | Java 6, C, C++, VB6, C#.NET, Swing, Hibernate, SourcePro, MFC, Sybase ASE, Oracle Coherence, Solaris, Windows. |
