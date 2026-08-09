@@ -8,7 +8,7 @@ As of July 28, 2026
 | --- | --- |
 | Name | Kazuyuki Dewa (出羽 和之) |
 | Education | Master's degree in Information Engineering, Osaka Prefecture University, March 2003 |
-| Career | 2003–2009: Financial systems development at a systems integration company<br>2010–present: Web application development as an independent contractor |
+| Employment History | 2003–2009: Financial systems development at a systems integration company<br>2010–present: Web application development as an independent contractor |
 
 ## Professional Summary
 
